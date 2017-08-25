@@ -1,0 +1,21 @@
+h1 {
+	font-family: 'Open Sans', sans-serif;
+}
+
+.head {
+	background: orange;
+	color: black;
+	padding: 50px;
+}
+
+.langel {
+	background-color: grey;
+	padding: 30px;
+	margin: 30px;
+	font-size: 20px;
+	text-align: center;
+}
+
+.push {
+	margin: 20px;
+}
